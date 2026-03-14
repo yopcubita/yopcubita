@@ -18,8 +18,7 @@ Me especializo en transformar ideas en código limpio y funcional.
 
 ---
 *"La tecnología es mejor cuando une a las personas."*
-### Mi Actividad en GitHub 📊
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?yopcubita=yopcubita&show_icons=true&theme=radical)
+
 <!---
 yopcubita/yopcubita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
