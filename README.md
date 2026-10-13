@@ -24,6 +24,7 @@ Aquí puedes ver algunos de mis trabajos más recientes enfocados en soluciones 
 
 | Proyecto | Descripción | Demo en Vivo |
 | :--- | :--- | :--- |
+| **🇨🇺 Millonario Cuba** | Juego de preguntas para Android al estilo *¿Quién quiere ser millonario?*, con preguntas sobre Cuba y premios en pesos cubanos. Hecho con HTML, CSS, JavaScript y Capacitor. | [Ver Proyecto 💻](https://github.com/yopcubita/millonario-cuba) · [Descargar APK 📱](https://github.com/yopcubita/millonario-cuba/releases/latest) |
 | **☀️ CubaSolar Landing** | Landing page profesional para empresas de energía renovable. Diseño moderno y responsivo. | [Ver Proyecto 🌐](https://yopcubita.github.io/cuba-solar-landing/) |
 | **📊 EcoCalc** | Calculadora interactiva de ahorro energético. Lógica en JS para estimar paneles solares necesarios. | [Probar Calculadora ⚡](https://yopcubita.github.io/Eco-Calc/) |
 | **🛒 RenovaShop** | Catálogo interactivo con filtrado de productos y carrito de cotización dinámico. | [Ir a la Tienda 🛍️](https://yopcubita.github.io/RenovaShop-Catalog/) |
